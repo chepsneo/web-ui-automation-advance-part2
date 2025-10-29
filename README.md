@@ -1,6 +1,4 @@
-# web-ui-automation-advance-part2
-# Tugas Web UI Automation Advance - Part 2
-
+# Tugas web-ui-automation-advance-part2
 Dokumen ini merupakan bagian dari tugas QA Automation yang mengimplementasikan **Selenium WebDriver**, **Mocha**, dan **Pixelmatch** untuk melakukan pengujian login dan validasi visual pada situs [saucedemo.com](https://www.saucedemo.com/).
 
 ##Tugas
@@ -40,6 +38,7 @@ Web UI Automation Advance Part 2/
 **Nama:** Cheps Neo  
 **Domisili:** Palu Selatan, Sulawesi Tengah  
 **Tugas:** QA Automation - LMS Submission  
+
 
 
 
