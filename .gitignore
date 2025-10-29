@@ -1,0 +1,8 @@
+# Folder dependencies
+node_modules/
+
+# Screenshot hasil visual testing
+screenshots/
+
+# Optional: file log atau hasil sementara
+*.log
